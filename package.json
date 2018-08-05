@@ -1,0 +1,24 @@
+{
+  "name": "trampoline",
+  "version": "1.0.0",
+  "description": "A bouncy ball game",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/daveonhols/trampoline.git"
+  },
+  "keywords": [
+    "game",
+    "js",
+    "node"
+  ],
+  "author": "David Smith (daveonhols)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daveonhols/trampoline/issues"
+  },
+  "homepage": "https://github.com/daveonhols/trampoline#readme"
+}
