@@ -23,6 +23,7 @@
   "homepage": "https://github.com/daveonhols/trampoline#readme",
   "dependencies": {
     "express": "^4.16.3",
+    "matter-js": "^0.14.2",
     "mustache": "^2.3.0",
     "mustache-express": "^1.2.7"
   },
